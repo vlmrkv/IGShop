@@ -65,7 +65,7 @@ Modern mobile applications use modern libraries, and therefore we use the best l
 # Demo
 
 ## Screens
-<img src="https://ucarecdn.com/1a8df859-e2da-451f-aa9b-88970d212b89/" width="49%"> <img src="" width="49%">
+<img src="https://ucarecdn.com/1a8df859-e2da-451f-aa9b-88970d212b89/" width="49%"> <img src="https://ucarecdn.com/c110b2cb-16af-41b2-a7d3-bf547481ef5d/" width="49%">
 
 </br>
 
